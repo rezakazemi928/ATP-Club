@@ -1,0 +1,17 @@
+<RCC>
+  <qresource>
+    <file>icons/add_user.png</file>
+    <file>icons/ATP_Club.png</file>
+    <file>icons/atp1.png</file>
+    <file>icons/atp2.png</file>
+    <file>icons/client.png</file>
+    <file>icons/delete.png</file>
+    <file>icons/edit.png</file>
+    <file>icons/lock.png</file>
+    <file>icons/payment.png</file>
+    <file>icons/register.png</file>
+    <file>icons/settings.png</file>
+    <file>icons/today.png</file>
+    <file>icons/users.png</file>
+  </qresource>
+</RCC>
